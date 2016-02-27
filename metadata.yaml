@@ -1,0 +1,21 @@
+_repo: Frau-und-Kindern-auf-der-Spur_2174
+creator:
+  author:
+    agent_name: Rohner, Gerold K.
+    gutenberg_agent_id: '843'
+    url: http://www.gutenberg.org/2009/agents/843
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2000-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2174'
+language: de
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PT'
+- !lcsh 'Western stories'
+title: Frau und Kindern auf der Spur
+url: http://www.gutenberg.org/ebooks/2174
