@@ -1,5 +1,5 @@
 _repo: Frau-und-Kindern-auf-der-Spur_2174
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -23,5 +23,6 @@ rights_url: ''
 subjects:
 - !lcc 'PT'
 - !lcsh 'Western stories'
+- GITenberg
 title: Frau und Kindern auf der Spur
 url: http://www.gutenberg.org/ebooks/2174
